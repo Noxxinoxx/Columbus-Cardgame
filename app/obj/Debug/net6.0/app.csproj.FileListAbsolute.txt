@@ -1,0 +1,17 @@
+C:\Users\Nox\Desktop\ColumbusCardGame\app\bin\Debug\net6.0\app.exe
+C:\Users\Nox\Desktop\ColumbusCardGame\app\bin\Debug\net6.0\app.deps.json
+C:\Users\Nox\Desktop\ColumbusCardGame\app\bin\Debug\net6.0\app.runtimeconfig.json
+C:\Users\Nox\Desktop\ColumbusCardGame\app\bin\Debug\net6.0\app.dll
+C:\Users\Nox\Desktop\ColumbusCardGame\app\bin\Debug\net6.0\app.pdb
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.dll
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\refint\app.dll
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.pdb
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\ref\app.dll
+C:\Users\Nox\Desktop\ColumbusCardGame\app\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nox\Desktop\ColumbusCardGame\app\obj\Debug\net6.0\app.csproj.CopyComplete

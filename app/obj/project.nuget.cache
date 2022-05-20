@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjMAa4WPDP1mXKm8EVQ9cyDp2W6op68AYxuuJSYRkPbsGZOnH2qLn13PUa5LMizuvbke5P9PYg7QyDcGLhKKXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nox\\Desktop\\ColumbusCardGame\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nox\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
